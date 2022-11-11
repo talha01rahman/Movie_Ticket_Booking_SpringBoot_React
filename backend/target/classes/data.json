@@ -1,0 +1,68 @@
+{
+  "MovieTheater" : [
+    {
+      "name" : "The Pioneer Amphitheater",
+      "location" : "1336 Lakeland Park Drive",
+      "city" : "Tallapoosa, GA",
+      "description" : "The Pioneer Amphitheater is an independent cinema in the city of Tallapoosa. In 2009, it was rated as one of the best cinemas in the world by Total Film magazine."
+    },
+    {
+      "name" : "Broadway Theater",
+      "location" : "4611 Archwood Avenue",
+      "city" : "Mountain View, WY",
+      "description" : "They have the best IMAX screen in the world! And I love the small theater feel without sketchy crowds and the seats were roomy and comfortable.                        "
+    },
+    {
+      "name" : "Popcorn Scope",
+      "location" : "3217 Kooter Lane",
+      "city" : "Charlotte, NC",
+      "description" : "Giant popcorn for cheap and rewards card that gives you discounts or free items after a certain amount of screenings. I recommend if your an introverted weirdo like myself but love movies.."
+    }
+  ],
+  "Movie" : [
+    {"name" : "The Batman",
+      "duration" : 176,
+      "language" : "English",
+      "movieType" : "Action",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+      "description" : "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement. "
+    },
+    {"name" : "Titanic",
+      "duration" : 195,
+      "language" : "English",
+      "movieType" : "Romantic",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+      "description" : "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {"name" : "Ted",
+      "duration" : 106,
+      "language" : "English",
+      "movieType" : "Comedy",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/d/d4/Ted_%28film%29.png",
+      "description" : "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear, Ted or his girlfriend, Lori."
+    },
+    {"name" : "Star Wars",
+      "duration" : 121,
+      "language" : "English",
+      "movieType" : "Fantasy",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+      "description" : "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    },
+    {"name" : "Despicable Me 3",
+      "duration" : 90,
+      "language" : "Englisha",
+      "movieType" : "Comedy",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/8/80/Despicable_Me_3_theatrical_release_poster.jpg",
+      "description" : "Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist."
+    },
+    {"name" : "Your Name.",
+      "duration" : 106,
+      "language" : "English",
+      "movieType" : "Animation",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "description" : "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"
+    }
+  ],
+  "morningMovieTime" :  ["10:00 AM", "10:30 AM", "11:00 AM", "11:30 AM", "12:00 AM", "12:30 AM"],
+  "afternoonMovieTime":  ["01:00 PM", "01:30 PM", "02:00 PM", "02:30 PM", "03:00 PM", "03:30 PM"]
+}
